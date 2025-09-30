@@ -30,6 +30,8 @@ Explorar recursos modernos da linguagem e consolidar boas práticas.
 - **Você vai aprender:**  
   Como lidar com parsing manual, como funcionam serializadores e por que bibliotecas como Jackson/Gson são tão importantes.  
 
+- **Fontes:**
+  https://www.geeksforgeeks.org/java/java-program-to-implement-a-json-parser/
 ---
 
 ### 2. Streams e Lambdas Avançados
